@@ -1,0 +1,122 @@
+[{
+    "header": {
+        "title": "Agrandir/rétrécir",
+        "spell": {
+            "casting_time": "1 action",
+            "range": "9 mètres",
+            "components": "V, S, M (une pincée de limaille de fer)",
+            "duration": "jusqu'à 1 minute"
+        },
+        "taxonomy": {
+            "source": ["Manuel des règles"],
+            "category": ["docs", "joueur", "sorts"],
+            "spell_school": ["Transmutation"],
+            "spell_level": ["2"],
+            "spell_class": ["Ensorceleur/Sorcelame", "Magicien"],
+            "spell_tag": ["concentration"]
+        },
+        "process": {
+            "markdown": true,
+            "twig": true
+        }
+    },
+    "content": "<p>Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et dans votre champ de vision pendant toute la durée du sort. Choisissez soit une créature, soit un objet qui n'est ni porté ni transporté. Si la cible n'est pas consentante, elle a droit à un <a href=\"/utiliser-les-caracteristiques#jets-de-sauvegarde\">jet de sauvegarde</a> de Constitution. Si elle le réussit, le sort est sans effet. Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transporte change de taille avec elle. En revanche, si elle l\u00e2che un objet, il reprend sa taille normale sur-le-champ.</p>\n<p><strong>Agrandir</strong>. La cible double dans toutes les dimensions, et son poids est multiplié par huit. Cette croissance augmente sa catégorie de taille d'un cran, de M à G par exemple. Si la cible n'a pas assez de place pour doubler de volume, elle atteint la taille maximale possible dans l'espace dont elle dispose. Elle bénéficie d'un avantage lors des tests de Force et des jets de sauvegarde de Force jusqu'à la fin du sort. Les armes de la cible grandissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi agrandies, elles infligent 1d4 dég\u00e2ts de plus.</p>\n<p><strong>Rétrécir</strong>. La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de Force et des jets de sauvegarde de Force jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dég\u00e2ts de moins (avec un minimum de 1 dég\u00e2t).</p>",
+    "link": "/grimoire/agrandir-retrecir",
+    "title": "Agrandir/rétrécir",
+    "level": "2",
+    "casting_time": "1 action",
+    "range": "9 mètres",
+    "components": "V, S, M (une pincée de limaille de fer)",
+    "duration": "jusqu'à 1 minute"
+}, {
+    "header": {
+        "title": "Aide",
+        "spell": {
+            "casting_time": "1 action",
+            "range": "9 mètres",
+            "components": "V, S, M (une minuscule bandelette de tissu blanc)",
+            "duration": "8 heures"
+        },
+        "taxonomy": {
+            "source": ["Manuel des règles"],
+            "category": ["docs", "joueur", "sorts"],
+            "spell_school": ["Abjuration"],
+            "spell_level": ["2"],
+            "spell_class": ["Clerc", "Paladin"],
+            "spell_tag": null
+        },
+        "process": {
+            "markdown": true,
+            "twig": true
+        }
+    },
+    "content": "<p>Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chacune d'entre elles augmentent de 5 pendant toute la durée du sort.</p>\n<p><strong>\u00c0 plus haut niveau</strong>. Quand vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 points supplémentaires pour chaque niveau au-delà du niveau 2.</p>",
+    "link": "/grimoire/aide",
+    "title": "Aide",
+    "level": "2",
+    "casting_time": "1 action",
+    "range": "9 mètres",
+    "components": "V, S, M (une minuscule bandelette de tissu blanc)",
+    "duration": "8 heures"
+}, {
+    "header": {
+        "title": "Alarme",
+        "spell": {
+            "casting_time": "1 minute",
+            "range": "9 mètres",
+            "components": "V, S, M (une minuscule clochette et un filament en argent)",
+            "duration": "8 heures"
+        },
+        "taxonomy": {
+            "source": ["Manuel des règles"],
+            "category": ["docs", "joueur", "sorts"],
+            "spell_school": ["Abjuration"],
+            "spell_level": ["1"],
+            "spell_class": ["Magicien", "Ombrelame", "R\u00f4deur"],
+            "spell_tag": ["rituel"]
+        },
+        "process": {
+            "markdown": true,
+            "twig": true
+        }
+    },
+    "content": "<p>Vous installez une alarme pour vous avertir en cas d'intrusion. Choisissez une porte, une fen\u00eatre ou une zone à portée qui n'occupe pas plus d'espace qu'un cube de 6 mètres de c\u00f4té. Tant que le sort fait effet, une alarme vous prévient dès qu'une créature de taille TP ou supérieure touche la zone protégée ou y pénètre. Au moment o\u00f9 vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi choisir si l'alarme sera audible ou mentale.</p>\n<p>Une alarme mentale vous avertit d'un tintement dans votre t\u00eate tant que vous vous trouvez dans un rayon de 1,5 kilomètre autour de la zone protégée. Ce tintement suffit à vous réveiller si vous \u00eates endormi.</p>\n<p>Une alarme audible émet le m\u00eame son qu'une cloche d'alerte pendant 10 secondes et retentit dans un rayon de 18 mètres.</p>",
+    "link": "/grimoire/alarme",
+    "title": "Alarme",
+    "level": "1",
+    "casting_time": "1 minute",
+    "range": "9 mètres",
+    "components": "V, S, M (une minuscule clochette et un filament en argent)",
+    "duration": "8 heures"
+}, {
+    "header": {
+        "title": "Allié planaire",
+        "spell": {
+            "casting_time": "10 minutes",
+            "range": "18 mètres",
+            "components": "V, S",
+            "duration": "instantanée"
+        },
+        "taxonomy": {
+            "source": ["Manuel des règles"],
+            "category": ["docs", "joueur", "sorts"],
+            "spell_school": ["Invocation"],
+            "spell_level": ["6"],
+            "spell_class": ["Clerc"],
+            "spell_tag": null
+        },
+        "process": {
+            "markdown": true,
+            "twig": true
+        }
+    },
+    "content": "<p>Vous demandez de l'aide à une entité appartenant à un autre monde. Vous devez conna\u00eetre cet \u00eatre, que ce soit un dieu, un primordial, un prince démoniaque ou une autre créature à la puissance cosmique. L'entité vous envoie un céleste, un élémentaire ou un fiélon qui lui est loyal. Cette créature appara\u00eet dans un emplacement libre à portée. Si vous connaissez le nom d'une créature spécifique, vous pouvez le mentionner lors de l'incantation pour demander à ce que ce soit elle que l'entité vous envoie, bien qu'elle puisse tout de m\u00eame vous envoyer un autre émissaire (c'est au MJ de décider).</p>\n<p>Quand la créature appara\u00eet, elle n'a aucune obligation de se comporter d'une manière particulière. Vous pouvez lui demander d'accomplir un service rémunéré, mais elle n'est pas obligée d'accepter. Votre requ\u00eate peut \u00eatre très simple (<em>nous faire passer en volant au-dessus de ce précipice</em>, <em>nous aider à livrer un combat</em>...) ou plus complexe (<em>espionner nos ennemis</em>, <em>nous protéger lors de l'exploration de ce donjon</em>...). Pour négocier un service, vous devez \u00eatre en mesure de communiquer avec la créature.</p>\n<p>Le paiement peut se faire sous diverses formes. Un céleste peut demander une importante donation en or ou en objets magiques à un temple allié, tandis qu'un fiélon peut exiger un sacrifice vivant ou un trésor. Certaines créatures monnayent leurs services contre une qu\u00eate à accomplir de votre c\u00f4té.</p>\n<p>En règle générale, une t\u00e2che qui s'accomplit en quelques minutes se paie 100  po la minute. Une t\u00e2che qui demande plusieurs heures co\u00fbte 1000  po de l'heure, et une t\u00e2che effectuée sur plusieurs jours (10  au maximum) vaut 10000  po la journée. Le MJ peut modifier le montant en fonction des circonstances dans lesquelles vous lancez le sort. Si la t\u00e2che à accomplir s'accorde avec l'éthique de la créature, elle peut réduire son salaire de moitié ou m\u00eame y renoncer. Les t\u00e2ches qui ne présentent aucun risque co\u00fbtent souvent la moitié du prix indiqué précédemment, tandis que les missions particulièrement dangereuses valent parfois bien plus cher. Une créature accepte rarement une t\u00e2che visiblement suicidaire.</p>\n<p>Une fois que la créature a accompli la t\u00e2che demandée ou quand la durée de service décidée est arrivée à son terme, elle retourne sur son plan d'origine après vous avoir fait son rapport, si la t\u00e2che l'exige et qu'elle est en mesure de le faire.</p>\n<p>Si vous \u00eates incapable de vous mettre d'accord avec la créature sur le prix de ses services, elle retourne immédiatement sur son plan natal.</p>\n<p>Une telle créature enr\u00f4lée dans votre groupe compte comme un membre à part entière et re\u00e7oit sa part de points d'expérience.</p>",
+    "link": "/grimoire/allie-planaire",
+    "title": "Allié planaire",
+    "level": "6",
+    "casting_time": "10 minutes",
+    "range": "18 mètres",
+    "components": "V, S",
+    "duration": "instantanée"
+}
+]

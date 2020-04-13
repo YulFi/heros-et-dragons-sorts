@@ -1,0 +1,14 @@
+{
+    "name": "heros-et-dragons-sorts",
+    "title": "heros-et-dragons-sorts",
+    "description": "Ajoute les de héros et dragons ",
+    "version": "0.1",
+    "minimumCoreVersion": "0.5.3",
+    "author": "Rodskin",
+    "esmodules": [
+        "./heros-et-dragons-sorts.js"
+    ],
+    "url": "https://github.com/rodskin/heros-et-dragons-sorts.git",
+    "manifest": "https://raw.githubusercontent.com/rodskin/heros-et-dragons-sorts/master/module.json",
+    "download": "https://raw.githubusercontent.com/rodskin/heros-et-dragons-sorts/master/heros-et-dragons-sorts.zip"
+}
